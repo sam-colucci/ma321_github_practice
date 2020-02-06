@@ -1,0 +1,16 @@
+---
+title: "Github Practice"
+output: html_notebook
+---
+
+```{r}
+x <- c(1,2,3,4,5)
+mean(x)
+sd(x)
+
+x[2]
+x[7]
+
+hist(x)
+```
+
